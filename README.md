@@ -1,8 +1,8 @@
-# EDMBOX
+# EDMbox
 
 This repository contains a collection of Matlab routines to accompany the paper
-_Euclidean Distance Matrices for Signal Processing_ by Ivan Dokmanic, Reza
-Parhizkar, Juri Ranieri and Martin Vetterli.
+_Euclidean Distance Matrices for Signal Processing_ (tentative title) by Ivan
+Dokmanic, Reza Parhizkar, Juri Ranieri and Martin Vetterli.
 
 ## Main functions
 
