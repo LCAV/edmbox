@@ -29,3 +29,10 @@ Dokmanic, Reza Parhizkar, Juri Ranieri and Martin Vetterli.
 | Example1_SwissTrains_SBB.m     | City locations in the Swiss trains box |
 | Example2_RandomCompletion.m    | Generates Fig. 6 of the paper          |
 | Example3_UnfoldingCompletion.m | Generates Fig. 7 of the paper          |
+
+## Authors
+
+Ivan Dokmanić, Juri Ranieri, and Martin Vetterli are with Laboratory for
+Audiovisual Communications ([LCAV](http://lcav.epfl.ch)) at [EPFL](http://www.epfl.ch), Switzerland. Reza Parhizkar is with macx red AG (Financial services), Zug, Switzerland.
+
+<img src="http://lcav.epfl.ch/files/content/sites/lcav/files/images/Home/LCAV_anim_200.gif">
