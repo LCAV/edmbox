@@ -6,14 +6,16 @@ Dokmanic, Reza Parhizkar, Juri Ranieri and Martin Vetterli.
 
 ## Main functions
 
-| Filename               | Description                                      |
-| -----------------      | -------------------                              |
-| edm.m                  | Creates an EDM from a list of points             |
-| classic_mds.m          | Classic multidimensional scaling                 |
-| alternating_descent.m  | S-stress minimization with ACD                   |
-| random_deletion_mask.m | Observation mask with randomly removed distances |
-| sdr_complete_edm.m     | EDM completion with semidefinite relaxation      |
-| rank_complete_edm.m    | EDM completion with rank alternation             |
+| Filename                 | Description                                      |
+| -----------------        | -------------------                              |
+| edm.m                    | Creates an EDM from a list of points             |
+| classic_mds.m            | Classic multidimensional scaling                 |
+| alternating_descent.m    | S-stress minimization with ACD                   |
+| random_deletion_mask.m   | Observation mask with randomly removed distances |
+| sdr_complete_edm.m       | EDM completion with semidefinite relaxation      |
+| rank_complete_edm.m      | EDM completion with rank alternation             |
+| sdr_complete_edm_noise.m | EDM completion with noise (trace maximization)   |
+
 
 ## Helper functions
 
