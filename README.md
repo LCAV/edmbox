@@ -30,6 +30,8 @@ Dokmanic, Reza Parhizkar, Juri Ranieri and Martin Vetterli.
 | Example2_RandomCompletion.m    | Generates Fig. 6 of the paper          |
 | Example3_UnfoldingCompletion.m | Generates Fig. 7 of the paper          |
 
+__NOTE__: Example2 and Example3 are outdated (they correspond to version 1 of the paper which was superseded by a revised version). We will commit the new routines in the coming days.
+
 ## Authors
 
 Ivan Dokmanić, Juri Ranieri, and Martin Vetterli are with Laboratory for

@@ -18,7 +18,7 @@ function D = rank_complete_edm(t_D, W, dim, gram)
 
 
 % Stopping criteria
-MAX_ITER = 10000;
+MAX_ITER = 1000;
 MAX_TOL  = 1e-7;
 
 
